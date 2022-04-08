@@ -42,7 +42,7 @@ I used the netherlands_2006 table
 
 ## graph analysis and visualization with `igraph` package
 
-### summation of the graph
+### summation of the graph (only the 10 first rows)
 
 <table>
 <thead>
